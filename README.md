@@ -18,6 +18,7 @@
 ### 🚀 My Cloud Projects
 - [AWS Cloud POC Projects](https://github.com/NagleAniket/aws-cloud-poc-projects) –  
   Includes 2-tier app architecture, serverless workflows, DR simulations, and monitoring dashboards.
+- [Shell Scripts](https://github.com/NagleAniket/DevOps/tree/22b94db868b52547aa693075875ccb0bda5ebcbb/shell_scripts)
 
 ---
 
